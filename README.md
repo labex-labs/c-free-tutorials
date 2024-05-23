@@ -6,8 +6,8 @@
 
 C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use in applications previously coded in assembly language. Such applications include operating systems and various application software for computer architectures that range from supercomputers to PLCs and embedded systems.
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                       |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                      |
+|---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Write and Run Your First C Program                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/write-and-run-your-first-c-program-136074)                       |
 |      02 | 📖 Read User Input                                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/read-user-input-136075)                                          |
 |      03 | 📖 Read Command-Line Arguments                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/read-command-line-arguments-136077)                              |
@@ -120,7 +120,8 @@ C is a general-purpose, procedural computer programming language supporting stru
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 

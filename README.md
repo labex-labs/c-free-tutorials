@@ -4,12 +4,12 @@
 <img width="128px" src="https://file.labex.io/path/GAbMWgBPUOxV.png">
 </div>
 
-C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions. It has found lasting use in applications previously coded in assembly language. Such applications include operating systems and various application software for computer architectures that range from supercomputers to PLCs and embedded systems.
+C programming is fundamental to computer science. This Skill Tree presents a systematic approach to learning C language. Ideal for programming beginners, it offers a clear roadmap to understand memory management, pointers, and system-level programming. Hands-on, non-video courses and coding exercises in an interactive C language playground ensure you develop practical skills in writing efficient C programs.
 
 |   Index | Name                                                                                                                                                       | Difficulty   | Tutorial Link                                                                                          |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------|
-|      01 | [📖 Write and Run Your First C Program](https://labex.io/tutorials/c-write-and-run-your-first-c-program-136074)                                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-write-and-run-your-first-c-program-136074)                       |
-|      02 | [📖 Read User Input](https://labex.io/tutorials/c-read-user-input-136075)                                                                                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-read-user-input-136075)                                          |
+|      01 | [📖 Your First C Lab](https://labex.io/tutorials/c-your-first-c-lab-391824)                                                                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-your-first-c-lab-391824)                                         |
+|      02 | [📖 Read User Input in C](https://labex.io/tutorials/c-read-user-input-in-c-136075)                                                                         | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-read-user-input-in-c-136075)                                     |
 |      03 | [📖 Read Command-Line Arguments](https://labex.io/tutorials/c-read-command-line-arguments-136077)                                                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-read-command-line-arguments-136077)                              |
 |      04 | [📖 Compare String Using Conditional Statements](https://labex.io/tutorials/c-compare-string-using-conditional-statements-136079)                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-compare-string-using-conditional-statements-136079)              |
 |      05 | [📖 Iterating String Array with C While Loop](https://labex.io/tutorials/c-iterating-string-array-with-c-while-loop-136081)                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-iterating-string-array-with-c-while-loop-136081)                 |
@@ -39,7 +39,7 @@ C is a general-purpose, procedural computer programming language supporting stru
 |      29 | [📖 Using If-Else Statements in C Programming](https://labex.io/tutorials/c-using-if-else-statements-in-c-programming-123265)                               | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-using-if-else-statements-in-c-programming-123265)                |
 |      30 | [📖 Celsius to Fahrenheit Conversion](https://labex.io/tutorials/c-celsius-to-fahrenheit-conversion-123211)                                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-celsius-to-fahrenheit-conversion-123211)                         |
 |      31 | [📖 Calculate Simple Interest Program](https://labex.io/tutorials/c-calculate-simple-interest-program-123332)                                               | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-calculate-simple-interest-program-123332)                        |
-|      32 | [📖 Swapping Numbers With Pointers](https://labex.io/tutorials/c-swapping-numbers-with-pointers-123350)                                                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-swapping-numbers-with-pointers-123350)                           |
+|      32 | [📖 Swapping Numbers with Pointers](https://labex.io/tutorials/c-swapping-numbers-with-pointers-123350)                                                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-swapping-numbers-with-pointers-123350)                           |
 |      33 | [📖 Array Traversal Using Pointers](https://labex.io/tutorials/c-array-traversal-using-pointers-123301)                                                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-array-traversal-using-pointers-123301)                           |
 |      34 | [📖 Find Largest Number](https://labex.io/tutorials/c-find-largest-number-123277)                                                                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-find-largest-number-123277)                                      |
 |      35 | [📖 Circle Area and Circumference in C](https://labex.io/tutorials/c-circle-area-and-circumference-in-c-123197)                                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-circle-area-and-circumference-in-c-123197)                       |
@@ -56,7 +56,7 @@ C is a general-purpose, procedural computer programming language supporting stru
 |      46 | [📖 Deleting an Element From Array Using C](https://labex.io/tutorials/c-deleting-an-element-from-array-using-c-123230)                                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-deleting-an-element-from-array-using-c-123230)                   |
 |      47 | [📖 Area of Triangle](https://labex.io/tutorials/c-area-of-triangle-123199)                                                                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-area-of-triangle-123199)                                         |
 |      48 | [📖 Prime or Composite Number Using Recursion](https://labex.io/tutorials/c-prime-or-composite-number-using-recursion-123309)                               | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-prime-or-composite-number-using-recursion-123309)                |
-|      49 | [📖 Sum of First N Numbers With Recursion](https://labex.io/tutorials/c-sum-of-first-n-numbers-with-recursion-123342)                                       | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-sum-of-first-n-numbers-with-recursion-123342)                    |
+|      49 | [📖 Sum of First N Numbers with Recursion](https://labex.io/tutorials/c-sum-of-first-n-numbers-with-recursion-123342)                                       | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-sum-of-first-n-numbers-with-recursion-123342)                    |
 |      50 | [📖 Reverse Content of File Using C](https://labex.io/tutorials/c-reverse-content-of-file-using-c-123317)                                                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-reverse-content-of-file-using-c-123317)                          |
 |      51 | [📖 Finding Roots of Quadratic Equation](https://labex.io/tutorials/c-finding-roots-of-quadratic-equation-123254)                                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-finding-roots-of-quadratic-equation-123254)                      |
 |      52 | [📖 Average of N Numbers](https://labex.io/tutorials/c-average-of-n-numbers-123205)                                                                         | ★☆☆          | [🔗 View](https://labex.io/tutorials/c-average-of-n-numbers-123205)                                     |
@@ -94,15 +94,15 @@ C is a general-purpose, procedural computer programming language supporting stru
 ## More Free Tutorials
 
 - [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
 - [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 - [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 - [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 - [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
 - [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
